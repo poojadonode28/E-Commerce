@@ -9,5 +9,5 @@ public class CreateProductRequestDTO {
     private String productName;
     private String category;
     private String imageUrl;
-    private int cost;
+    private double cost;
 }
